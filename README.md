@@ -1,1 +1,1 @@
-# Studeny-management-application-jsp
+# Student-management-application-jsp
